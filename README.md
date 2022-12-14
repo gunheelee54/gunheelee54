@@ -15,7 +15,6 @@
 
 ## :computer: Currently Improving My Skills In...
 - **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- **SQL** from [Charlotte Chaze's](https://www.howtobreakintotech.com/p/break-into-tech-charlotte-chaze-courses) course
 
 ## :electric_plug: Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/gunheelee54/)
